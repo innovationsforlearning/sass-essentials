@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300|Roboto+Slab:300|Josefin+Slab);
+
+$offwhite:      #ebeef0;
+$darkblue:      #022933;
+$yellow:            #FFBA00;
+$blue:              #0076a3;
+$green:             #548c27;
+$orange:            #F39856;
+$red:                   #D14348;
+$purple:            #6D73C2;
+$gray:              #333333;
+
+
+$color-main: $gray;
+$color-backgrounds: $offwhite;
+$color-headlines: $darkblue;
+
+$font-main: 'Source Sans Pro', Helvetica, sans-serif;
+$font-highlight: 'Roboto Slab', Helvetica, sans-serif;
+
+html {
+    font-size: 54%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 1.8rem;
+    font-family: $font-main;
+    color: $color-main;
+    line-height: 3rem;
+    background-color: $color-backgrounds;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: $font-highlight;
+    color: $color-headlines;
+}
