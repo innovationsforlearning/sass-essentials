@@ -1,10 +1,10 @@
 {
   "name": "sassEssentials",
   "version": "0.0.1",
-  "description": "A website for my Sass Essential Training course on Lynda.com",
+  "description": "A website for my Sass Essential Training course on Lynda.com used at IFL for training",
   "repository": {
     "type": "git",
-    "url": "https://github.com/planetoftheweb/sassEssentials.git"
+    "url": "git@github.com:k8xian/sass-essentials.git"
   },
   "author": "Ray Villalobos",
   "devDependencies": {
