@@ -1,5 +1,4 @@
 # Sass Essential Training
-This is the repository for my course, Sass Essential Training on Lynda.com.
 
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage. Or you can simply add `/tree/BRANCH_NAME` to the URL to go to the branch you want to peek at.
